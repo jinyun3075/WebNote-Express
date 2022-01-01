@@ -1,10 +1,10 @@
 # web_note
 ## path
-![img](경로1.png)<br/>
-![img](경로.png)<br/>
+![img](zimg/경로1.png)<br/>
+![img](zimg/경로.png)<br/>
 ## path2
-![img](경로2-1.png)<br/>
-![img](경로2-2.png)<br/>
+![img](zimg/경로2-1.png)<br/>
+![img](zimg/경로2-2.png)<br/>
 ## 기능
 - CRUD
 ```js
@@ -55,10 +55,10 @@ const Ctr= {
 }
 ```
 ## 탬플릿
-![img](노트화면.png)
+![img](zimg/노트화면.png)
 [참고](https://github.com/bbarksse/noteApp)
 ## Schema
-![img](database.png)
+![img](zimg/database.png)
 ```json
 {
     "title":"String",
