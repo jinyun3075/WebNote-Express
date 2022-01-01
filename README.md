@@ -1,4 +1,7 @@
 # web_note
+## pakage
+- express / express-generator
+- mongoose
 ## path
 ![img](zimg/경로1.png)<br/>
 ![img](zimg/경로.png)<br/>

@@ -1,4 +1,4 @@
-const Note = require('../model/note');
+const Note = require('../schema/note');
 
 const Ctr= {
     create: async (req, res)=> {

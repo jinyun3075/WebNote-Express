@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-const Note = require("../model/note");
+const Note = require("../schema/note");
 const ctr = require("../controller/note");
 
 /* GET home page. */
